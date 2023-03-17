@@ -1,0 +1,436 @@
+[
+ {
+   "brand_name": "Tatcha",
+   "item_name": "The Dewy Skin Cream Plumping & Hydrating Moisturizer",
+   "base_price": "$22.00",
+   "high_price": "$85.00",
+   "rating_no": "3,100.00"
+ },
+ {
+   "brand_name": "Drunk Elephant",
+   "item_name": "Protini™ Polypeptide Firming Moisturizer",
+   "base_price": "$22.00",
+   "high_price": "$98.00",
+   "rating_no": "600.00"
+ },
+ {
+   "brand_name": "Caudalie",
+   "item_name": "Resveratrol Lift Retinol Alternative Firming Cashmere Moisturizer",
+   "base_price": "$69.00",
+   "high_price": "",
+   "rating_no": "334.00"
+ },
+ {
+   "brand_name": "Charlotte Tilbury",
+   "item_name": "Magic Cream Moisturizer with Hyaluronic Acid",
+   "base_price": "$30.00",
+   "high_price": "$260.00",
+   "rating_no": "3,300.00"
+ },
+ {
+   "brand_name": "IT Cosmetics",
+   "item_name": "CC+ Cream Full Coverage Foundation with SPF 50+",
+   "base_price": "$17.00",
+   "high_price": "$44.00",
+   "rating_no": "7,400.00"
+ },
+ {
+   "brand_name": "Caudalie",
+   "item_name": "Premier Cru Anti Aging Cream Moisturizer with Hyaluronic Acid",
+   "base_price": "$109.00",
+   "high_price": "$129.00",
+   "rating_no": "236.00"
+ },
+ {
+   "brand_name": "PROVEN Skincare",
+   "item_name": "Personalized Cleanser, SPF Day Moisturizer, Night Cream Set",
+   "base_price": "$169.99",
+   "high_price": "",
+   "rating_no": "208.00"
+ },
+ {
+   "brand_name": "Farmacy",
+   "item_name": "Honey Halo Ultra-Hydrating Ceramide Moisturizer",
+   "base_price": "$25.00",
+   "high_price": "$74.00",
+   "rating_no": "1,300.00"
+ },
+ {
+   "brand_name": "Tatcha",
+   "item_name": "The Water Cream Oil-Free Pore Minimizing Moisturizer",
+   "base_price": "$22.00",
+   "high_price": "$85.00",
+   "rating_no": "4,100.00"
+ },
+ {
+   "brand_name": "Kiehl's Since 1851",
+   "item_name": "Ultra Facial Moisturizing Cream with Squalane",
+   "base_price": "$24.00",
+   "high_price": "$105.00",
+   "rating_no": "2,400.00"
+ },
+ {
+   "brand_name": "LANEIGE",
+   "item_name": "Cream Skin Toner & Moisturizer",
+   "base_price": "$33.00",
+   "high_price": "",
+   "rating_no": "1,800.00"
+ },
+ {
+   "brand_name": "Fenty Skin",
+   "item_name": "Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide + Kalahari Melon",
+   "base_price": "$22.00",
+   "high_price": "$38.00",
+   "rating_no": "756.00"
+ },
+ {
+   "brand_name": "The Ordinary",
+   "item_name": "Natural Moisturizing Factors + HA",
+   "base_price": "$6.50",
+   "high_price": "$13.50",
+   "rating_no": "200.00"
+ },
+ {
+   "brand_name": "bareMinerals",
+   "item_name": "COMPLEXION RESCUE™ Tinted Moisturizer with Hyaluronic Acid and Mineral SPF 30",
+   "base_price": "$22.00",
+   "high_price": "$37.00",
+   "rating_no": "3,900.00"
+ },
+ {
+   "brand_name": "Youth To The People",
+   "item_name": "Superberry Hydrate + Glow Dream Night Mask with Vitamin C",
+   "base_price": "$18.00",
+   "high_price": "$52.00",
+   "rating_no": "2,300.00"
+ },
+ {
+   "brand_name": "Tower 28 Beauty",
+   "item_name": "SOS Daily Rescue Facial Spray",
+   "base_price": "$12.00",
+   "high_price": "$68.00",
+   "rating_no": "623.00"
+ },
+ {
+   "brand_name": "Skinfix",
+   "item_name": "Barrier+ Triple Lipid-Peptide Face Cream",
+   "base_price": "$20.00",
+   "high_price": "$78.00",
+   "rating_no": "2,400.00"
+ },
+ {
+   "brand_name": "Glow Recipe",
+   "item_name": "Plum Plump Hyaluronic Acid Moisturizer",
+   "base_price": "$21.00",
+   "high_price": "$39.00",
+   "rating_no": "1,300.00"
+ },
+ {
+   "brand_name": "Summer Fridays",
+   "item_name": "Jet Lag Mask",
+   "base_price": "$26.00",
+   "high_price": "$67.00",
+   "rating_no": "4,400.00"
+ },
+ {
+   "brand_name": "Summer Fridays",
+   "item_name": "Sheer Skin Tint with Hyaluronic Acid + Squalane",
+   "base_price": "$42.00",
+   "high_price": "",
+   "rating_no": "388.00"
+ },
+ {
+   "brand_name": "The INKEY List",
+   "item_name": "Peptide Moisturizer",
+   "base_price": "$15.99",
+   "high_price": "",
+   "rating_no": "768.00"
+ },
+ {
+   "brand_name": "Glow Recipe",
+   "item_name": "Watermelon Glow AHA Night Treatment",
+   "base_price": "$21.00",
+   "high_price": "$40.00",
+   "rating_no": "712.00"
+ },
+ {
+   "brand_name": "IT Cosmetics",
+   "item_name": "CC+ Nude Glow Lightweight Foundation + Glow Serum with SPF 40 and Niacinamide",
+   "base_price": "$44.00",
+   "high_price": "",
+   "rating_no": "1,700.00"
+ },
+ {
+   "brand_name": "Rare Beauty by Selena Gomez",
+   "item_name": "Mini Always an Optimist 4-in-1 Mist",
+   "base_price": "$14.00",
+   "high_price": "",
+   "rating_no": "35.00"
+ },
+ {
+   "brand_name": "Tatcha",
+   "item_name": "Indigo Overnight Repair Serum in Cream Treatment",
+   "base_price": "$22.00",
+   "high_price": "$92.00",
+   "rating_no": "1,100.00"
+ },
+ {
+   "brand_name": "Drunk Elephant",
+   "item_name": "Lala Retro™ Whipped Moisturizer with Ceramides",
+   "base_price": "$60.00",
+   "high_price": "",
+   "rating_no": "200.00"
+ },
+ {
+   "brand_name": "Glow Recipe",
+   "item_name": "Watermelon Pink Juice Oil-Free Moisturizer",
+   "base_price": "$21.00",
+   "high_price": "$39.00",
+   "rating_no": "1,900.00"
+ },
+ {
+   "brand_name": "Bobbi Brown",
+   "item_name": "Vitamin Enriched Face Base Priming Moisturizer",
+   "base_price": "$24.00",
+   "high_price": "$99.00",
+   "rating_no": "3,400.00"
+ },
+ {
+   "brand_name": "The INKEY List",
+   "item_name": "Omega Water Cream Moisturizer",
+   "base_price": "$10.99",
+   "high_price": "",
+   "rating_no": "381.00"
+ },
+ {
+   "brand_name": "Charlotte Tilbury",
+   "item_name": "Mini Charlotte's Magic Cream",
+   "base_price": "$30.00",
+   "high_price": "",
+   "rating_no": "240.00"
+ },
+ {
+   "brand_name": "Sunday Riley",
+   "item_name": "C.E.O Glow Vitamin C + Turmeric Face Oil",
+   "base_price": null,
+   "high_price": "",
+   "rating_no": "828.00"
+ },
+ {
+   "brand_name": "Youth To The People",
+   "item_name": "Superfood Air-Whip Lightweight Moisturizer with Hyaluronic Acid",
+   "base_price": "$48.00",
+   "high_price": "",
+   "rating_no": "1,700.00"
+ },
+ {
+   "brand_name": "Dr. Jart+",
+   "item_name": "Ceramidin™ Skin Barrier Moisturizing Cream",
+   "base_price": "$48.00",
+   "high_price": "",
+   "rating_no": "329.00"
+ },
+ {
+   "brand_name": "OLEHENRIKSEN",
+   "item_name": "Strength Trainer Peptide Boost Moisturizer",
+   "base_price": "$20.00",
+   "high_price": "$51.00",
+   "rating_no": "836.00"
+ },
+ {
+   "brand_name": "Glow Recipe",
+   "item_name": "Avocado Fine Line Eye Cream with Retinol",
+   "base_price": "$42.00",
+   "high_price": "",
+   "rating_no": "1,900.00"
+ },
+ {
+   "brand_name": "First Aid Beauty",
+   "item_name": "Ultra Repair® Cream Intense Hydration",
+   "base_price": "$18.00",
+   "high_price": "$48.00",
+   "rating_no": "7,500.00"
+ },
+ {
+   "brand_name": "Drunk Elephant",
+   "item_name": "Virgin Marula Luxury  Face Oil",
+   "base_price": "$38.00",
+   "high_price": "$68.00",
+   "rating_no": "1,600.00"
+ },
+ {
+   "brand_name": "belif",
+   "item_name": "The True Cream Aqua Bomb",
+   "base_price": null,
+   "high_price": "",
+   "rating_no": "7,300.00"
+ },
+ {
+   "brand_name": "Dr. Jart+",
+   "item_name": "Cicapair™ Tiger Grass Color Correcting Treatment SPF 30",
+   "base_price": "$21.00",
+   "high_price": "$52.00",
+   "rating_no": "5,200.00"
+ },
+ {
+   "brand_name": "belif",
+   "item_name": "The True Cream Moisturizing Bomb",
+   "base_price": null,
+   "high_price": "",
+   "rating_no": "4,500.00"
+ },
+ {
+   "brand_name": "Kosas",
+   "item_name": "Plump + Juicy Vegan Collagen + Probiotic Spray-On Serum",
+   "base_price": "$48.00",
+   "high_price": "",
+   "rating_no": "129.00"
+ },
+ {
+   "brand_name": "The Ordinary",
+   "item_name": "100% Organic Cold-Pressed Moroccan Argan Oil",
+   "base_price": "$7.50",
+   "high_price": "",
+   "rating_no": "352.00"
+ },
+ {
+   "brand_name": "Tatcha",
+   "item_name": "The Camellia Oil 2-in-1 Makeup Remover & Cleanser",
+   "base_price": "$50.00",
+   "high_price": "",
+   "rating_no": "1,800.00"
+ },
+ {
+   "brand_name": "Fenty Skin",
+   "item_name": "Fat Water Hydrating Milky Toner Essence with Hyaluronic Acid + Tamarind",
+   "base_price": "$32.00",
+   "high_price": "",
+   "rating_no": "288.00"
+ },
+ {
+   "brand_name": "LANEIGE",
+   "item_name": "Cream Skin Mist",
+   "base_price": "$27.00",
+   "high_price": "",
+   "rating_no": "281.00"
+ },
+ {
+   "brand_name": "Youth To The People",
+   "item_name": "Superberry Hydrate + Glow Dream Oil",
+   "base_price": "$48.00",
+   "high_price": "",
+   "rating_no": "100.00"
+ },
+ {
+   "brand_name": "The INKEY List",
+   "item_name": "Vitamin B, C, and E Moisturizer",
+   "base_price": "$7.99",
+   "high_price": "",
+   "rating_no": "287.00"
+ },
+ {
+   "brand_name": "Skinfix",
+   "item_name": "Barrier+ Skin Barrier Niacinamide Restoring Gel Cream",
+   "base_price": "$40.00",
+   "high_price": "$48.00",
+   "rating_no": "747.00"
+ },
+ {
+   "brand_name": "Caudalie",
+   "item_name": "Grape Water Moisturizing Face Mist",
+   "base_price": "$12.00",
+   "high_price": "$20.00",
+   "rating_no": "1,700.00"
+ },
+ {
+   "brand_name": "LANEIGE",
+   "item_name": "Water Bank Blue Hyaluronic Cream Moisturizer",
+   "base_price": "$23.00",
+   "high_price": "$40.00",
+   "rating_no": "674.00"
+ },
+ {
+   "brand_name": "CLINIQUE",
+   "item_name": "Moisture Surge™ 100H Auto-Replenishing Hydrator Moisturizer",
+   "base_price": "$16.00",
+   "high_price": "$82.00",
+   "rating_no": "1,700.00"
+ },
+ {
+   "brand_name": "Tatcha",
+   "item_name": "Mini Indigo Overnight Repair Serum in Cream Treatment",
+   "base_price": "$22.00",
+   "high_price": "",
+   "rating_no": "3.00"
+ },
+ {
+   "brand_name": "Fenty Skin",
+   "item_name": "Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide Refill",
+   "base_price": "$34.00",
+   "high_price": "",
+   "rating_no": "36.00"
+ },
+ {
+   "brand_name": "Dr. Jart+",
+   "item_name": "Premium BB Tinted Moisturizer with Niacinamide and SPF 40",
+   "base_price": "$44.00",
+   "high_price": "",
+   "rating_no": "589.00"
+ },
+ {
+   "brand_name": "SK-II",
+   "item_name": "Facial Treatment Essence (Pitera Essence)",
+   "base_price": "$99.00",
+   "high_price": "$299.00",
+   "rating_no": "2,900.00"
+ },
+ {
+   "brand_name": "Farmacy",
+   "item_name": "10% Niacinamide Night Mask",
+   "base_price": "$26.00",
+   "high_price": "$44.00",
+   "rating_no": "840.00"
+ },
+ {
+   "brand_name": "OLEHENRIKSEN",
+   "item_name": "Hydrabarrier Nourishing Face Oil",
+   "base_price": "$58.00",
+   "high_price": "",
+   "rating_no": "190.00"
+ },
+ {
+   "brand_name": "Biossance",
+   "item_name": "Squalane + Omega Repair Deep Hydration Moisturizer",
+   "base_price": "$20.00",
+   "high_price": "$78.00",
+   "rating_no": "2,100.00"
+ },
+ {
+   "brand_name": "Glow Recipe",
+   "item_name": "Watermelon Glow Ultra-Fine Mist",
+   "base_price": "$29.00",
+   "high_price": "",
+   "rating_no": "986.00"
+ },
+ {
+   "brand_name": "Caudalie",
+   "item_name": "Beauty Elixir Prep, Set, Glow Face Mist",
+   "base_price": "$20.00",
+   "high_price": "$49.00",
+   "rating_no": "3,400.00"
+ },
+ {
+   "brand_name": "Sunday Riley",
+   "item_name": "C.E.O. Afterglow Brightening Vitamin C Moisturizer",
+   "base_price": "$22.00",
+   "high_price": "$65.00",
+   "rating_no": "489.00"
+ },
+ {
+   "brand_name": "Drunk Elephant",
+   "item_name": "Mini Virgin Marula Luxury Face Oil",
+   "base_price": "$38.00",
+   "high_price": "",
+   "rating_no": "264.00"
+ }
+]
