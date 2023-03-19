@@ -16,7 +16,7 @@ app.get('/', async (req,res) => {
 })
 
 app.use('/', moisturizersRouter)
-app.use('/treatment', treatmentRouter)
+app.use('/', treatmentRouter)
 app.use('/wellness', wellnessRouter)
 
 
