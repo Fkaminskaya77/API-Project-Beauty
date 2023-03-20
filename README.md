@@ -14,12 +14,12 @@ I created this project with my love for Sephora and Beauty Products. This API is
 - [Kaggle2](https://www.kaggle.com/datasets/thedevastator/skincare-products-that-perform-the-best-at-sepho?select=skincare_df.csv)
 
 ## Installation
-
-
+   
     1. Clone this Repo
-       - git clone
+       
+     ``` git clone```
     
     2. Install dependences
-       - npm install mongoose
-       - npm install express
+       ``` npm install mongoose ```
+       ``` npm install express ```
         
