@@ -15,7 +15,7 @@ I created this project with my love for Sephora and Beauty Products. This API is
 
 ## Installation
 Make sure to have a MongoDB database and node installed for things to run more smoothly
-
+```
 * 1. Clone this Repo
      
      *  git clone
@@ -39,6 +39,7 @@ Make sure to have a MongoDB database and node installed for things to run more s
                    
                    * npm install nodemon --save-dev
                    * npm install prettier -D --save-exact
+   ```
                    
   # Documentaion of paths using APIDOC 
   
