@@ -17,21 +17,31 @@ I created this project with my love for Sephora and Beauty Products. This API is
 Make sure to have a MongoDB database and node installed for things to run more smoothly
 
 * 1. Clone this Repo
+     
      *  git clone
    
     * 2. Install dependences
+        
          * npm install mongoose 
          * npm install express 
          * npm init -y (installs Package.json)
 
-        * 3. Seeding Data into MongoDB
-             * node db/seed.js
+       * 3. Seeding Data into MongoDB
+            
+            * node db/seed.js
 
-            * 4. Launch the server
-                 * node index.js
-                 * open server on localhost
+          * 4. Launch the server
+                
+                * node index.js
+                * open server on localhost
                      
-                * 5. Extra features used
-                     * npm install nodemon --save-dev
-                     * npm install prettier -D --save-exact
+              * 5. Extra features used
+                   
+                   * npm install nodemon --save-dev
+                   * npm install prettier -D --save-exact
+                   
+  # Documentaion of paths using APIDOC 
+  
+  <img width="1511" alt="Screenshot 2023-03-20 at 3 35 20 PM" src="https://user-images.githubusercontent.com/117240024/226474395-e2ffadd4-be47-46f3-a188-bb6cab806415.png">
+
 
