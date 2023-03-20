@@ -15,11 +15,18 @@ I created this project with my love for Sephora and Beauty Products. This API is
 
 ## Installation
    
-    1. Clone this Repo
+   * 1. Clone this Repo
        
-     ``` git clone```
+     ``` 
+     $ git clone
+     
+     ```
     
     2. Install dependences
-       ``` npm install mongoose ```
-       ``` npm install express ```
+     ``` 
+      $ npm install mongoose 
+     ```
+     ```
+      $ npm install express 
+     ```
         
