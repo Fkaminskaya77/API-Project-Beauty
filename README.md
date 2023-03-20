@@ -35,5 +35,3 @@ Make sure to have a MongoDB database and node installed for things to run more s
                      * npm install nodemon --save-dev
                      * npm install prettier -D --save-exact
 
- <img width="1511" alt="Screenshot 2023-03-20 at 3 35 20 PM" src="https://user-images.githubusercontent.com/117240024/226471974-c8cefd01-5e1b-477d-840c-0b060b26d192.png">
-
